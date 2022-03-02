@@ -1,0 +1,44 @@
+{
+  "itemId": "182269226557",
+  "title": "NIKE AIR JORDAN 5 RETRO LOW 'Dunk From Above' Sz 8.5-11/EUR 42-45 [819171 135]",
+  "globalId": "EBAY-US",
+  "primaryCategory": {
+    "categoryId": "15709",
+    "categoryName": "Athletic Shoes"
+  },
+  "galleryURL": "https://i.ebayimg.com/thumbs/images/g/JUYAAOSw9IpXzaas/s-l140.jpg",
+  "viewItemURL": "https://www.ebay.com/itm/NIKE-AIR-JORDAN-5-RETRO-LOW-Dunk-Above-Sz-8-5-11-EUR-42-45-819171-135-/182269226557?var=484794683461",
+  "autoPay": "true",
+  "postalCode": "223**",
+  "location": "Alexandria,VA,USA",
+  "country": "US",
+  "shippingInfo": {
+    "shippingType": "Calculated",
+    "shipToLocations": "Worldwide",
+    "expeditedShipping": "true",
+    "oneDayShippingAvailable": "false",
+    "handlingTime": "1"
+  },
+  "sellingStatus": {
+    "currentPrice": { "_currencyId": "USD", "value": "399.99" },
+    "convertedCurrentPrice": { "_currencyId": "USD", "value": "399.99" },
+    "sellingState": "Active",
+    "timeLeft": "P3DT14H20M42S"
+  },
+  "listingInfo": {
+    "bestOfferEnabled": "false",
+    "buyItNowAvailable": "false",
+    "startTime": "2016-09-05T17:26:47.000Z",
+    "endTime": "2022-03-05T17:26:47.000Z",
+    "listingType": "FixedPrice",
+    "gift": "false",
+    "watchCount": "2"
+  },
+  "returnsAccepted": "false",
+  "condition": {
+    "conditionId": "1500",
+    "conditionDisplayName": "New without box"
+  },
+  "isMultiVariationListing": "true",
+  "topRatedListing": "false"
+}
